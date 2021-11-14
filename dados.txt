@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Debora Canne
+-Profissão: professora
+-Cidade: São Paulo
+-O que faz nas horas vaga: assito TV, leio livro, passeio;
+-Feedback sobre o curso Qualidade de Software: Estou gostando muito
+-Feedback sobre a plataforma de estudo da EBAC: bem organizada. Gostei muito
 
 Obrigado!!!
 
